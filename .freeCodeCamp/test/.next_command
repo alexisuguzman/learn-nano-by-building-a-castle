@@ -53,3 +53,4 @@ touch castle.sh
 \ls
 nano castle.sh
 bash castle.sh
+nano castle.sh
